@@ -1,11 +1,7 @@
 import React from "react";
 
 function App() {
-    return (
-        <div><h1>こんにちは</h1>
-
-        </div>
-    );
+    return <h1>こんにちは世界</h1>;
 }
 
 export default App;
